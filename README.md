@@ -1,11 +1,5 @@
 # Kubernetes Fundamentals
 
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-
-## Two FREE Courses on Udemy
-- [Kubernetes for Absolute Beginners on AWS Cloud | Part-1](https://www.udemy.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-1)
-- [Kubernetes for Absolute Beginners on AWS Cloud | Part-2](https://www.udemy.com/course/kubernetes-for-absolute-beginners-on-aws-cloud-part-2)
-
 ## Contents
 
 | S.No | Course Contents |
@@ -107,33 +101,5 @@
 - **Step-03:** Deploy and Test - Frontend and Backend Applications
 
 
-## What will students learn in your course?
-- You will learn creating Pods, ReplicaSets, Deployments and Services using kubectl
-- You will learn creating Pods, ReplicaSets, Deployments and Services using YAML
-- You will write kubernetes manifests using YAML with confidence after going through live template writing sections
-- You will learn Kubernetes Fundamentals in both imperative and declarative approaches
-- You will learn to create AWS EKS Cluster using eksctl CLI
-- You will master many kubectl commands over the process
-- You will have step by step instructions documented using github repository
 
-## Are there any course requirements or prerequisites?
-- You must have an AWS account to follow with me for hands-on activities.
-- You dont need to have any basic kubernetes knowledge to start this course.  
-
-
-## Who are your target students?
-- Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
-- AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
 
